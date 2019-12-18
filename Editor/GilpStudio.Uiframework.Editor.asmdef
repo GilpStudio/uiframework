@@ -1,0 +1,10 @@
+{
+    "name": "GilpStudio.Uiframework.Editor",
+    "references": [
+      "GilpStudio.Uiframework"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

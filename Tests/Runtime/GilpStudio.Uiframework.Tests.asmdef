@@ -1,0 +1,11 @@
+{
+    "name": "GilpStudio.Uiframework.Tests",
+    "references": [
+        "GilpStudio.Uiframework"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

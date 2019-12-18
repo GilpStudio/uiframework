@@ -1,0 +1,14 @@
+{
+    "name": "GilpStudio.Uiframework.Editor.Tests",
+    "references": [
+        "GilpStudio.Uiframework.Editor",
+        "GilpStudio.Uiframework"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
